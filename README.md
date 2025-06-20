@@ -52,7 +52,7 @@ A cutting-edge hybrid synthesizer for FL Studio that blends additive and subtrac
 ### 🖼 Preview
 
 Harmor plugin interface inside FL Studio  
-![Screenshot](https://blog.waproduction.com/hs-fs/hubfs/Blog/2020/5/Free%20FL%20Studio%20Presets/Sytrus.jpg?width=832&name=Sytrus.jpg)  
+![Screenshot](https://www.admiralbumblebee.com/assets/FLStudio/Instruments/Harmor.png)  
 *Resynthesis view and harmonic editor in action*
 
 ---
